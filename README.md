@@ -1,8 +1,18 @@
-# React + Vite
+# To-Do List en React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es un proyecto de una **Lista de Tareas** construida con **React**. Los usuarios pueden agregar y eliminar tareas.
 
-Currently, two official plugins are available:
+## Características
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Agregar tareas a la lista.
+- Eliminar tareas de la lista.
+- Mensaje de alerta cuando el campo de tarea está vacío.
+
+## Tecnologías utilizadas
+
+- **React**: Librería JavaScript para construir interfaces de usuario.
+
+
+  ## Enlace a la pagina
+
+  Puedes ver el proyecto en producción en este enlace: [Visita la página desplegada en Netlify](https://app.netlify.com/sites/dreamy-entremet-e0cf1c/overview)
