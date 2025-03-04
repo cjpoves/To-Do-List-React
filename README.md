@@ -15,4 +15,4 @@ Este es un proyecto de una **Lista de Tareas** construida con **React**. Los usu
 
   ## Enlace a la pagina
 
-  Puedes ver el proyecto en producción en este enlace: [Visita la página desplegada en Netlify](https://app.netlify.com/sites/dreamy-entremet-e0cf1c/overview)
+  Puedes ver el proyecto en producción en este enlace: [Visita la página desplegada en Netlify](https://dreamy-entremet-e0cf1c.netlify.app/)
